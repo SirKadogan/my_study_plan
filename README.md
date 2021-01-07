@@ -21,6 +21,8 @@ This repo will maintain all programming topics I intend to study as a way of rem
 - **Native Modules** - Build a Native Module for iOS and use it in
   a React Native App
 
+- **GitFlow** - Learn and start using GitFlow
+
 - **Unit Testing** - Learn and start using unit testing
 
 - **Web CI/CD** - Deploy an app with Netlify
