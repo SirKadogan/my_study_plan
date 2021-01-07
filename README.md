@@ -25,6 +25,10 @@ This repo will maintain all programming topics I intend to study as a way of rem
 
 - **Unit Testing** - Learn and start using unit testing
 
+- **Personal Website** - Build and deploy a personal website on Github Pages
+
+- **Medium** - Write an article on medium
+
 - **Web CI/CD** - Deploy an app with Netlify
 
 - **Animations** - Practice web animations
