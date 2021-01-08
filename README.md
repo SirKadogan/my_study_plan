@@ -19,7 +19,7 @@ This repo will maintain all programming topics I intend to study as a way of rem
 - **Flipper** - Setup and start using Flipper to debug RN
 
 - **Native Modules** - Build a Native Module for iOS and use it in
-  a React Native App
+  a React Native App. Available <a href="https://github.com/SirKadogan/ios_module">here</a> :heavy_check_mark:
 
 - **GitFlow** - Learn and start using GitFlow
 
