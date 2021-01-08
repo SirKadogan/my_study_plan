@@ -14,7 +14,7 @@ This repo will maintain all programming topics I intend to study as a way of rem
 - **UniEuropa** - Finish my MBA
 
 - **Github** - Make my first Pull Request to help the community
-  maintain libraries
+  maintain libraries :heavy_check_mark:
 
 - **Flipper** - Setup and start using Flipper to debug RN
 
