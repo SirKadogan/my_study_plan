@@ -27,9 +27,11 @@ This repo will maintain all programming topics I intend to study as a way of rem
 
 - **Personal Website** - Build and deploy a personal website on Github Pages
 
-- **Medium** - Write an article on medium
+- **Medium** - Write an article on medium :heavy_check_mark:
 
 - **Web CI/CD** - Deploy an app with Netlify
+
+- **Flexbox** - Learn advanced concepts in Flexbox
 
 - **Animations** - Practice web animations
 
@@ -43,6 +45,8 @@ This repo will maintain all programming topics I intend to study as a way of rem
 - **Build an app** - Build an app to practice animations
 
 - **PWAs** - Build a Progressive Web App
+
+- **Theory** - Study data structures and algorithms
 
 - **E2E Tests** - Learn and build an E2E test
 
