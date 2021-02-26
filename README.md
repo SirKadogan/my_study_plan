@@ -21,7 +21,7 @@ This repo will maintain all programming topics I intend to study as a way of rem
 - **Native Modules** - Build a Native Module for iOS and use it in
   a React Native App. Available <a href="https://github.com/SirKadogan/ios_module">here</a> :heavy_check_mark:
 
-- **GitFlow** - Learn and start using GitFlow
+- **GitFlow** - Learn and start using GitFlow :heavy_check_mark:
 
 - **Unit Testing** - Learn and start using unit testing
 
@@ -30,6 +30,8 @@ This repo will maintain all programming topics I intend to study as a way of rem
 - **Medium** - Write an article on medium :heavy_check_mark:
 
 - **Web CI/CD** - Deploy an app with Netlify
+
+- **Theory** - Read the Javascript documentation on MDN
 
 - **Flexbox** - Learn advanced concepts in Flexbox
 
