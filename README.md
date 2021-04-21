@@ -23,6 +23,14 @@ This repo will maintain all programming topics I intend to study as a way of rem
 
 - **GitFlow** - Learn and start using GitFlow :heavy_check_mark:
 
+- **SSR/SSG** - Learn and practice concepts about Server Side Rendering and Static Site Generation 
+
+- **Next.js** - Learn and build a project using Next.js
+
+- **Sass** - Learn and build a project using Sass
+
+- **GitFlow** - Learn and start using GitFlow :heavy_check_mark:
+
 - **Unit Testing** - Learn and start using unit testing
 
 - **Personal Website** - Build and deploy a personal website on Github Pages
