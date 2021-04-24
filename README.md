@@ -13,6 +13,8 @@ This repo will maintain all programming topics I intend to study as a way of rem
 
 - **UniEuropa** - Finish my MBA
 
+- **NLW5** - One week event to practice React/Next.js. Available <a href="https://github.com/SirKadogan/podcastr">here</a> :heavy_check_mark:
+
 - **Github** - Make my first Pull Request to help the community
   maintain libraries :heavy_check_mark:
 
@@ -23,11 +25,11 @@ This repo will maintain all programming topics I intend to study as a way of rem
 
 - **GitFlow** - Learn and start using GitFlow :heavy_check_mark:
 
-- **SSR/SSG** - Learn and practice concepts about Server Side Rendering and Static Site Generation 
+- **SSR/SSG** - Learn and practice concepts about Server Side Rendering and Static Site Generation :heavy_check_mark:
 
-- **Next.js** - Learn and build a project using Next.js
+- **Next.js** - Learn and build a project using Next.js :heavy_check_mark:
 
-- **Sass** - Learn and build a project using Sass
+- **Sass** - Learn and build a project using Sass :heavy_check_mark:
 
 - **GitFlow** - Learn and start using GitFlow :heavy_check_mark:
 
